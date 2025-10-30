@@ -1,0 +1,14 @@
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\LibraryDB.accdb
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\LibraryApp.exe.config
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\LibraryApp.exe
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\LibraryApp.pdb
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\Programming\practica\vladv2\LibraryApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.Properties.Resources.resources
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.csproj.GenerateResource.cache
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.csproj.Up2Date
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.exe
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.pdb
+F:\Programming\practica\vladv2\LibraryApp\obj\Debug\LibraryApp.LoginForm.resources
